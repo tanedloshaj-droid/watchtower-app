@@ -1,0 +1,16 @@
+{
+  "name": "RI(CH/SK)",
+  "short_name": "RI(CH/SK)",
+  "description": "Dein RI(CH/SK)-Krypto-Bot mit Spielgeld.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070d24",
+  "theme_color": "#070d24",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
